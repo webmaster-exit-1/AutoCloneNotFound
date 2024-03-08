@@ -6,7 +6,7 @@ I had cloned a project from Github then began to install the software dependenci
 which lead to many "error, package not found!" messages from Termux's repo.
 So I went about creating this bash function and/or standalone method script
 to aide with installing missing or "not found" software. <br>
-9 times out of 10 times if the software you need can't be found in your distro's repo(s).
+9 times out of 10 times; If the software you need can't be found in your distro's repo(s).
 It's probably going to be found on Github. <br>
 Note: This function/script
 **DOES NOT** install software. It merely searches and clones the software. <br>
