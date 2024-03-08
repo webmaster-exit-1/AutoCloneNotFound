@@ -16,7 +16,7 @@ You **WILL** need a Github personal api token to perform searches.
 And you are subject to Github rate limiting you if your usage is deemed heavy on their servers.
 That has to do with Github, not my code.
 #
-- > For Termux, add this to your bashrc which is located in: `$PREFIX/etc/bash.bashrc` <br>
+- > For Termux, add this to your .bashrc which is located in: `$PREFIX/etc/bash.bashrc` <br>
    - > For PC GNU/Linux distro's your .bashrc can be found here: `$HOME/.bashrc`
 #
 
