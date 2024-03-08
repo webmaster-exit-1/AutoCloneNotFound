@@ -5,13 +5,14 @@ I had originally created this script while using Termux (terminal emulator) in A
 I had cloned a project from Github then began to install the software dependencies,
 which lead to many "error, package not found!" messages from Termux's repo.
 So I went about creating this bash function and/or standalone method script
-to aide with installing missing or "not found" software. 
-9 times out of 10 if the software you need can't be found in your distro's repo(s)
-It's probably going to be on Github. Note: This function/script
-<u>does not</u> install software. It merely searches and clones the software.
-Installing the software after the fact is still done by you, the end user.
+to aide with installing missing or "not found" software. <br>
+9 times out of 10 times if the software you need can't be found in your distro's repo(s).
+It's probably going to be found on Github. <br>
+Note: This function/script
+**DOES NOT** install software. It merely searches and clones the software. <br>
+Installing the software after the fact is still done by you, the end user. <br>
 
-You WILL need a Github personal api token to perform searches.
+You **WILL** need a Github personal api token to perform searches.
 And you are subject to Github rate limiting you if your usage is deemed heavy on their servers.
 That has to do with Github, not my code.
 #
