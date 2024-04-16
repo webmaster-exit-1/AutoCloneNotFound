@@ -17,7 +17,7 @@ And you are subject to Github rate limiting you if your usage is deemed heavy on
 That has to do with Github, not my code.
 #
 - > For Termux, add this to your .bashrc which is located in: `$PREFIX/etc/bash.bashrc` <br>
-   - > For PC GNU/Linux distro's your .bashrc can be found here: `$HOME/.bashrc`
+   - > For PC GNU/Linux distro's your .bashrc can be found here: `$HOME/.bashrc`. And don't forget to edit `pkg` <-to-> `apt` or whichever package manager command your distro uses.
 #
 
 
